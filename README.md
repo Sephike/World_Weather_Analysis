@@ -6,4 +6,4 @@
 ## Vacation Travel Itinerary Map Waypoints 
 !["Vacation Travel Itinerary Map Waypoints"](Vacation_Itinerary/WeatherPy_travel_map.png)
 ## Vacation Travel Itinerary Map Pop-up Menus
-!["Vacation Travel Itinerary Map Pop-up Menus"](Vacation_Itinerary/WeatherPy_travel_map_marker.png)
+!["Vacation Travel Itinerary Map Pop-up Menus"](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
